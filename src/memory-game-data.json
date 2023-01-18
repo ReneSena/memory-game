@@ -1,0 +1,65 @@
+{
+	"backURL": "https://www.florence.edu.br/wp-content/uploads/2022/08/Imagem-Materia_Dia-do-Cachorro-600x400.png",
+	"images": [
+		{
+			"id": 0,
+			"frontUrl": "./maggie1.jpeg",
+			"name": "maggie 1",
+			"active": false
+		},
+		{
+			"id": 1,
+			"frontUrl": "./maggie2.jpeg",
+			"name": "maggie 2",
+			"active": false
+		},
+		{
+			"id": 2,
+			"frontUrl": "./maggie3.jpeg",
+			"name": "maggie 3",
+			"active": false
+		},
+		{
+			"id": 3,
+			"frontUrl": "./maggie4.jpeg",
+			"name": "maggie 4",
+			"active": false
+		},
+		{
+			"id": 4,
+			"frontUrl": "./maggie5.jpeg",
+			"name": "maggie 5",
+			"active": false
+		},
+		{
+			"id": 5,
+			"frontUrl": "./maggie1.jpeg",
+			"name": "maggie 1",
+			"active": false
+		},
+		{
+			"id": 6,
+			"frontUrl": "./maggie2.jpeg",
+			"name": "maggie 2",
+			"active": false
+		},
+		{
+			"id": 7,
+			"frontUrl": "./maggie3.jpeg",
+			"name": "maggie 3",
+			"active": false
+		},
+		{
+			"id": 8,
+			"frontUrl": "./maggie4.jpeg",
+			"name": "maggie 4",
+			"active": false
+		},
+		{
+			"id": 9,
+			"frontUrl": "./maggie5.jpeg",
+			"name": "maggie 5",
+			"active": false
+		}
+	]
+}
